@@ -1,0 +1,4 @@
+git pull lấy files về
+git add . tạo vùng 
+git commit -m "//" comment code
+git push
